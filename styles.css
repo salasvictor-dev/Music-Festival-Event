@@ -45,7 +45,7 @@ h5 {
 }
 
 .contenedor {
-    background-color: rgba(16, 17, 18, 0.6); /* #101112 con transparencia */
+    background-color: rgba(16, 17, 18, 0.6);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     padding: 2rem;

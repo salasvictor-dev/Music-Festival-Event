@@ -1,4 +1,4 @@
-// Bootstrap 5 validation
+// Bootstrap 5 validation!!!
 (() => {
     "use strict";
     const forms = document.querySelectorAll(".needs-validation");
